@@ -1,0 +1,13 @@
+active_class: "active"
+active_path_class: "active-path"
+elements:
+  - href: /index.html
+    name: Home
+  - href: /service/service.html
+    name: Service
+  - href: /prices.html
+    name: Prices
+  - href: /contact.html
+    name: Contact
+  - href: /about-us/index.html
+    name: About us
